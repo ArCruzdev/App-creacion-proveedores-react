@@ -3,6 +3,7 @@ import { FormularioProveedor } from './components/FormularioProveedor'
 import { TablaProveedores } from './components/TablaProveedores'
 
 export const App = () => {
+  
   return (
     <>
       <FormularioProveedor />
